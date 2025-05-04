@@ -62,6 +62,6 @@ My research primarily focuses on the following areas:
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2022.03 - 2022.06*, Project Assistant, International Business Machines Corporation (IBM),Shanghai CHina.
-- *2022.10 - 2022.12*, Supply Chain Management Analysis Intern, JD Logistics Transportation Co., Ltd.Shanghai CHina.
-- *2023.9 - 2023.12*, Data Science Intern, ByteDance,Shanghai CHina.
+- *2022.03 - 2022.06*, Project Assistant, International Business Machines Corporation (IBM),Shanghai China.
+- *2022.10 - 2022.12*, Supply Chain Management Analysis Intern, JD Logistics Transportation Co., Ltd.Shanghai China.
+- *2023.9 - 2023.12*, Data Science Intern, ByteDance,Shanghai China.
