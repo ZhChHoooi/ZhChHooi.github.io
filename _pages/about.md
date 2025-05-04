@@ -17,14 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
+I am a PhD student at Tongji University, focusing on the analysis of complex human spatiotemporal behavior and social behavior patterns. My research aims to reveal the mechanisms behind urban events and social phenomena, as well as their spatiotemporal propagation patterns, using data-driven approaches to decode the complex relationships between human behavior and urban dynamics.
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.09*: &nbsp;🎉🎉 Recipient of the Outstanding Doctoral Freshman Scholarship from the School of Transportation, Tongji University. 
+- *2024.07*: &nbsp;🎉🎉 Received a joint training offer from Shanghai Institute of Intelligence Science and Technology (CIAI) .
 
 # 📝 Publications 
 
@@ -43,16 +40,23 @@ My research interest includes neural machine translation and computer vision. I 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
+- *Bachelor* Ranked first in the major for four consecutive years, with an outstanding record of over 30 national and provincial/municipal academic competition awards. Recipient of 7 honors including Outstanding Student, Outstanding Party Member, and Outstanding Student Leader distinctions. Awarded 11 scholarships including the National Scholarship, Shanghai Municipal Scholarship, and President's Scholarship. 
+- *2020-2021* Shanghai Municipal Scholarship, First-Class Academic Scholarship, Outstanding Student Award. 
+- *2021-2022* Second-Class Departmental Scholarship, Excellent Student Activist Recognition. 
+- *2022-2023* National Scholarship, First-Class Departmental Scholarship, Outstanding Student Award, Exemplary Youth League Member, President's Scholarship. 
+- *Ph.D. Candidate* 
+- *2024-2025* National Scholarship for Fresh Doctoral Students of Tongji University. 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
+- *2020.09 - 2021.6*, Naval Architecture and Ocean Engineering, School of Marine Science and Engineering. 
+- *2021.09 - 2024.06*, Undergraduate,Supply Chain Management, School of Economics and Management. 
+- *2021.09 - 2023.06*, Finance (Minor), School of Economics, Fudan University. 
+- *2024.09 - 2029.06(now)*, Ph.D. Candidate,Urban Transportation, Tongji University. 
+- *2025.09 - 2026.06*, Large Language Models, Spatiotemporal Modeling, Institute of Intelligence Science and Technology (CIAI). 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2022.03 - 2022.06*, Project Assistant, International Business Machines Corporation (IBM),Shanghai CHina.
+- *2022.10 - 2022.12*, Supply Chain Management Analysis Intern, JD Logistics Transportation Co., Ltd.Shanghai CHina.
+- *2023.9 - 2023.12*, Data Science Intern, ByteDance,Shanghai CHina.
