@@ -17,8 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD student at Tongji University, focusing on the analysis of complex human spatiotemporal behavior and social behavior patterns. My research aims to reveal the mechanisms behind urban events and social phenomena, as well as their spatiotemporal propagation patterns, using data-driven approaches to decode the complex relationships between human behavior and urban dynamics.
-
+I am a PhD student at Tongji University, focusing on the analysis of complex human spatiotemporal behavior and social behavior patterns. Through data-driven approaches and artificial intelligence, my research aims to decode the intricate relationships between human behavior and urban dynamics by revealing the mechanisms behind urban events and social phenomena, as well as their spatiotemporal propagation patterns. By studying these generative mechanisms and interaction processes, I seek to enhance our understanding of how human activities and urban systems influence each other, ultimately contributing to social sensing, sustainable urban development, refined city management, and evidence-based policy-making.
+My research primarily focuses on the following areas:
+·Multimodal mobility behavior sensing
+·Spatial intervention of built environment on mobility and behavior
+·Travel regulation analysis
+·Urban interaction network construction
+·Agent-based modeling (ABM) of human behavior and interaction
 # 🔥 News
 - *2024.09*: &nbsp;🎉🎉 Recipient of the Outstanding Doctoral Freshman Scholarship from the School of Transportation, Tongji University. 
 - *2024.07*: &nbsp;🎉🎉 Received a joint training offer from Shanghai Institute of Intelligence Science and Technology (CIAI) .
