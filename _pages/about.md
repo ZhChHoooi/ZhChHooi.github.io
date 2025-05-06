@@ -36,7 +36,7 @@ My Academic Appointments:
 
 # 🔥 News
 - *2024.09*: &nbsp;🎉🎉 Recipient of the Outstanding Doctoral Freshman Scholarship from the School of Transportation, Tongji University. 
-- *2024.07*: &nbsp;🎉🎉 Received a joint training offer from Shanghai Institute of Intelligence Science and Technology (CIAI) .
+- *2024.07*: &nbsp;🎉🎉 Received a joint training offer from Shanghai Institute of Intelligence Science and Technology (SII) .
 
 # 📝 Publications 
 
@@ -66,7 +66,7 @@ My Academic Appointments:
 - *2021.09 - 2024.06*, Undergraduate,Supply Chain Management, School of Economics and Management. 
 - *2021.09 - 2023.06*, Finance (Minor), School of Economics, Fudan University. 
 - *2024.09 - 2029.06(now)*, Ph.D. Candidate,Urban Transportation, Tongji University. 
-- *2025.09 - 2026.06*, Large Language Models, Spatiotemporal Modeling, Institute of Intelligence Science and Technology (CIAI). 
+- *2025.09 - 2026.06*, Large Language Models, Spatiotemporal Modeling, Shanghai Institute of Intelligence Science and Technology (SII). 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
