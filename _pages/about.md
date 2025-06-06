@@ -33,6 +33,7 @@ My Academic Appointments:
 - *Invited Reviewer for IEEE ITSC (Intelligent Transportation Systems Conference)*
 - *Reviewer for Transport Policy*
 - *Reviewer for International Journal of Transportation Science and Technology*
+- *Reviewer for Computers & Industrial Engineering（Special Issue）*
 
 # 🔥 News
 - *2024.09*: &nbsp;🎉🎉 Recipient of the Outstanding Doctoral Freshman Scholarship from the School of Transportation, Tongji University. 
@@ -57,7 +58,7 @@ My Academic Appointments:
 # 🎖 Honors and Awards
 - *Bachelor* Ranked first in the major for four consecutive years, with an outstanding record of over 30 national and provincial/municipal academic competition awards. Recipient of 7 honors including Outstanding Student, Outstanding Party Member, and Outstanding Student Leader distinctions. Awarded 11 scholarships including the National Scholarship, Shanghai Municipal Scholarship, and President's Scholarship. 
 - *2020-2021* Shanghai Municipal Scholarship, First-Class Academic Scholarship, Outstanding Student Award. 
-- *2021-2022* Second-Class Departmental Scholarship, Excellent Student Activist Recognition. 
+- *2021-2022* First-Class Academic Scholarship, Outstanding Student Award.  
 - *2022-2023* National Scholarship, First-Class Departmental Scholarship, Outstanding Student Award, Exemplary Youth League Member, President's Scholarship. 
 - *Ph.D. Candidate* 
 - *2024-2025* National Scholarship for Fresh Doctoral Students of Tongji University. 
